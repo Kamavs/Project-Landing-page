@@ -1,0 +1,164 @@
+body{
+    background: #1F2937;
+    margin:50px;
+}
+
+.hero {
+    background-color: #1F2937;
+    color: #fff;
+    font-family: sans-serif ;
+    text-align: right;
+    
+    
+    
+}
+
+.header-logo{
+    font-weight: bold;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+
+.banner{
+    background: #1F2937;
+    color: #fff;
+    padding-top:50px;
+    padding-bottom:110px;
+    display: flex;
+    object-fit: cover;
+    flex:content;
+    
+}
+
+.banner img{
+     
+    max-height:10000px;
+    max-width: 10000px;
+    height: 433px;
+    width: 757px;
+    border-radius:3%;
+}
+
+
+.text-banner
+
+{ 
+  font-family: sans-serif;  
+  margin-left: 150px;
+  margin-top: 98px;  
+}  
+
+.button {
+    background-color:#3882f6;
+    color:#fff;
+    border-radius: 25px;
+    padding: 15px;
+    border: none;
+    font-weight: bold;
+    margin-top: 64px;
+    font-size:22px;
+    margin-left: -10px;
+    width: 28%;
+    
+}
+
+.random-info{
+    background: #fff;
+    display: flex;
+    padding: 50px;
+    flex-wrap: wrap;
+    height: 220px;
+    justify-content: center;
+    
+    
+}
+.title-info{
+    text-align: center;
+    background: #fff;
+    color: black;
+    margin-bottom:-55px;
+    font-weight: bold;
+    font-family: sans-serif;
+    
+}
+.item {
+ width: 180px;
+ margin: 20px;
+ border: #3882f6 solid 3px;
+ line-height: 75px;
+ border-radius: 30%;
+
+
+
+}
+
+.text-box{
+    background-color: #fff;
+    color: black;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -80px;
+}
+
+.textbox{
+   margin: 42px;
+   color: gray;
+   font-family: sans-serif;
+
+
+}
+.quote{
+    background-color: rgba(255, 255, 255, 0.842);
+    color: black;
+    text-align: justify;
+    font-style: italic;
+    font-weight: lighter;
+    padding:20px;
+    font-size: 30px;
+}
+
+.quote h5 {
+    font-style: normal;
+    font-family: sans-serif;
+    text-align: right;
+}   
+
+.bottom{
+    background: #fff;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: left;
+    padding:1%;
+    
+}
+
+.button2{
+    border: solid #fff 3px;
+    color:#fff;
+    padding: 10px;
+    background:#3882f6;
+    border-radius: 20%;
+    text-align: right;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 732px;
+}
+
+.border{
+    background: #3882f6;
+    border-radius: 1%;
+    padding: 5px;
+    width: 56%;
+    margin:20%;
+    scale: 145%;
+    margin-top: 225px;
+}
+
+.footer{
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
